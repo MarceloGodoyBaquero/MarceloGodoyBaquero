@@ -19,3 +19,8 @@
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) 
 
 ---
+
+### Please feel free to contact me!
+
+Gmail: marcelo.godoy@mi.unc.edu.ar
+LinkedIn: [marcelo-godoy-full-stack](https://www.linkedin.com/in/marcelo-godoy-full-stack/)
