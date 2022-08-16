@@ -2,7 +2,7 @@
 
 ## Full Stack Engineer, Systems Analyst and Industrial Designer!
 
-
+### I live in Argentina, have 26 years old I consider myself a geek in love with technology, video games and programing . Actually i work in coally as a MERN full stack development and continue my learning in development technologies.
 
 ---
 
