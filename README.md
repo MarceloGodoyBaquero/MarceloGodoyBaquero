@@ -60,13 +60,14 @@ https://avocado.vercel.app/
 ### Mar-Abierto, NFT MARKETPLACE
 https://mar-abierto-marketplace.vercel.app/
 
-### Please feel free to contact me!
 
-Gmail: marcelo.godoy@mi.unc.edu.ar /// 
-LinkedIn: [marcelo-godoy-full-stack](https://www.linkedin.com/in/marcelo-godoy-full-stack/)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcelogodoybaquero&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="marcelogodoybaquero" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcelogodoybaquero&show_icons=true&theme=tokyonight&locale=en" alt="marcelogodoybaquero" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcelogodoybaquero&theme=tokyonight" alt="marcelogodoybaquero" /></p>
+
+### Please feel free to contact me!
+### Gmail: marcelo.godoy@mi.unc.edu.ar
+### LinkedIn: [marcelo-godoy-full-stack](https://www.linkedin.com/in/marcelo-godoy-full-stack/)
