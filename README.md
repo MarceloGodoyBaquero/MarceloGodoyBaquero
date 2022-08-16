@@ -52,6 +52,14 @@
 
 ---
 
+## My Projects!
+
+### Avocado, another web recipe book!
+https://avocado.vercel.app/
+
+### Mar-Abierto, NFT MARKETPLACE
+https://mar-abierto-marketplace.vercel.app/
+
 ### Please feel free to contact me!
 
 Gmail: marcelo.godoy@mi.unc.edu.ar /// 
