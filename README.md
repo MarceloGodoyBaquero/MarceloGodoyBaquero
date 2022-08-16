@@ -29,4 +29,4 @@ LinkedIn: [marcelo-godoy-full-stack](https://www.linkedin.com/in/marcelo-godoy-f
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcelogodoybaquero&show_icons=true&theme=tokyonight&locale=en" alt="marcelogodoybaquero" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcelogodoybaquero&theme=dark" alt="marcelogodoybaquero" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcelogodoybaquero&theme=tokyonight" alt="marcelogodoybaquero" /></p>
