@@ -25,7 +25,7 @@
 Gmail: marcelo.godoy@mi.unc.edu.ar /// 
 LinkedIn: [marcelo-godoy-full-stack](https://www.linkedin.com/in/marcelo-godoy-full-stack/)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcelogodoybaquero&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="marcelogodoybaquero" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcelogodoybaquero&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="marcelogodoybaquero" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcelogodoybaquero&show_icons=true&theme=tokyonight&locale=en" alt="marcelogodoybaquero" /></p>
 
